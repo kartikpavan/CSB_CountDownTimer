@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: #300b33;
+  color: #d90cf0;
+  font-size: 50px;
+  text-shadow: 1px 1px 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section {
+  padding: 10px 50px;
+  background-color: #24153d;
+  border: 2px solid #840a91;
+  box-shadow: 0 0 5px 20px;
+}
